@@ -1,0 +1,12 @@
+ // "start": "node ./bin/www",
+
+
+[Default Settings]
+Cluster Name:                           Cluster57093
+Cloud Provider and Region:              AWS - US_EAST_1
+Database User Username:                 Cluster57093
+Load sample data:                       Yes
+Allow connections from (IP Address):    87.163.60.133
+
+
+Once you install the MongoDB Shell, connect to your database with:                                                   $ mongosh -u Cluster57191 -p Vnh6T2ZsbF5u mongodb+srv://cluster57191.e81g2bh.mongodb.net                                                                                                                                                  A new version of atlascli is available 'v1.9.0'!                                                                     To upgrade, see: https://dochub.mongodb.org/core/install-atlas-cli.                                                                                                                                                                       To disable this alert, run "atlas config set skip_update_check true".   
